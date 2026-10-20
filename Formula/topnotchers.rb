@@ -1,5 +1,5 @@
 class Topnotchers < Formula
-  desc "Your coding agents, living in your Mac's notch"
+  desc "Shows Claude Code and Codex sessions next to the notch"
   homepage "https://github.com/joey-david/topnotchers"
   url "https://github.com/joey-david/topnotchers/archive/refs/tags/v0.1.1.tar.gz"
   sha256 "83ddecb748fe1c012242b4f8abcfeef41c81705e71cd4d2fb03d785194d39259"

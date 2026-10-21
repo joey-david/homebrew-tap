@@ -1,5 +1,5 @@
 class Topnotchers < Formula
-  desc "Shows Claude Code and Codex sessions next to the notch"
+  desc "Minimal notch monitor for Claude Code and Codex"
   homepage "https://github.com/joey-david/topnotchers"
   url "https://github.com/joey-david/topnotchers/archive/refs/tags/v0.1.3.tar.gz"
   sha256 "280c231c708968581ba6978908ffcd397ef3c49903c4a6ae359618115bc03939"

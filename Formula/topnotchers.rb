@@ -1,8 +1,8 @@
 class Topnotchers < Formula
   desc "Shows Claude Code and Codex sessions next to the notch"
   homepage "https://github.com/joey-david/topnotchers"
-  url "https://github.com/joey-david/topnotchers/archive/refs/tags/v0.1.1.tar.gz"
-  sha256 "83ddecb748fe1c012242b4f8abcfeef41c81705e71cd4d2fb03d785194d39259"
+  url "https://github.com/joey-david/topnotchers/archive/refs/tags/v0.1.2.tar.gz"
+  sha256 "be4e51b287b1332f5ea81709a5557235aaeeebccb3775005513540a495f40261"
   license "MIT"
 
   depends_on arch: :arm64
